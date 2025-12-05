@@ -14,6 +14,8 @@ Smooth animations and hover effects
 HTML
 CSS (Flexbox, Grid, Animations)
 JavaScript (DOM manipulation, interactivity)
+🚀 Live Demo
+https://foodserviceportfolio.netlify.app/
 <img width="1917" height="883" alt="Screenshot 2025-12-03 060208" src="https://github.com/user-attachments/assets/42238f1f-0d8a-4b50-b875-4322dc5262ad" />
 <img width="1919" height="785" alt="Screenshot 2025-12-03 060225" src="https://github.com/user-attachments/assets/15f4e2ab-ed72-43b0-8261-7b29fdfd51d1" />
 <img width="1909" height="867" alt="Screenshot 2025-12-03 060238" src="https://github.com/user-attachments/assets/4a39d54c-27a3-443d-835f-c852b865da2f" />
