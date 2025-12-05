@@ -795,9 +795,9 @@ img {
 @media (max-width: 768px) {
   /* Navbar */
   .navbar {
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    padding: 1rem;
+    padding: 0.2rem;
   }
 
   .navbar ul {
@@ -889,4 +889,5 @@ section.visible, .about.visible, .contact.visible,
 .menu1.visible, .menu2.visible, .menu3.visible, .menu4.visible {
   opacity: 1;
   transform: translateY(0);
+
 }
