@@ -1,9 +1,6 @@
 # food-service-portfolio
-This is a front-end practice project created as part of my personal portfolio to showcase my web development skills. It simulates 6 pages(Home, Menu, Order, About, Contact, and Signup)built using HTML, CSS and JavaScript. 
 🍽️ Food Service Website
-A responsive food service website built with HTML, CSS, and JavaScript.
-Designed to showcase fresh ingredients, vibrant dishes, and a smooth ordering experience.
-
+This is a front-end practice project created as part of my personal portfolio to showcase my web development skills. It simulates 6 pages(Home, Menu, Order, About, Contact, and Signup)built using HTML, CSS and JavaScript. 
 ✨ Features
 Clean navigation bar (Home, Menu, Order, About, Contact, Sign Up)
 Hero section with promotional banner
