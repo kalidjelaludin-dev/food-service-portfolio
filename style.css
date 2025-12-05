@@ -798,11 +798,12 @@ img {
     flex-direction: row;
     align-items: center;
     padding: 0.2rem;
+      width:100%
   }
 
   .navbar ul {
-    flex-direction: column;
-    gap: 0.5rem;
+    flex-direction: row;
+    gap: 0.2rem;
   }
 
   /* Menu items */
@@ -845,7 +846,7 @@ img {
 
   /* Footer buttons */
   .last, .laste {
-    display:none;
+
   }
 
   .last1, .last2, .last3,
@@ -891,3 +892,4 @@ section.visible, .about.visible, .contact.visible,
   transform: translateY(0);
 
 }
+
